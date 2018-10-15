@@ -22,6 +22,7 @@
     "redux": "latest",
     "react-redux": "latest",
     "reselect": "latest",
+    "react-loadable": "latest",
     "reconnecting-websocket": "latest",
     "styled-components": "latest",
     "ynw": "latest"
