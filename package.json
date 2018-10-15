@@ -9,6 +9,7 @@
   "dependencies": {
     "antd": "latest",
     "axios": "latest",
+    "classnames": "latest",
     "date-fns": "latest",
     "es6-promise": "latest",
     "lodash": "latest",
