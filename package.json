@@ -19,6 +19,7 @@
     "react": "latest",
     "react-dom": "latest",
     "react-router": "latest",
+    "react-router-dom": "latest",
     "redux": "latest",
     "react-redux": "latest",
     "reselect": "latest",
