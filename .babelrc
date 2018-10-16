@@ -10,6 +10,7 @@
     "@babel/react"
   ],
   "plugins": [
+    "webpack-async-module-name",
     "@babel/plugin-transform-runtime",
     "@babel/plugin-transform-dotall-regex",
     "@babel/plugin-proposal-optional-chaining",
@@ -26,7 +27,6 @@
       "libraryName": "antd",
       "libraryDirectory": "es",
       "style": "css"
-    }],
-    "webpack-async-module-name"
+    }]
   ]
 }
