@@ -19,7 +19,6 @@
     "react": "latest",
     "react-dom": "latest",
     "react-router": "latest",
-    "react-loadable": "latest",
     "react-router-dom": "latest",
     "recompose": "latest",
     "redux": "latest",
