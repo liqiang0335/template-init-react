@@ -26,6 +26,7 @@
       "libraryName": "antd",
       "libraryDirectory": "es",
       "style": "css"
-    }]
+    }],
+    "webpack-async-module-name"
   ]
 }
