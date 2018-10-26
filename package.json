@@ -17,6 +17,7 @@
     "mobx": "latest",
     "mobx-react": "latest",
     "normalizr": "latest",
+    "normalize.css": "latest",
     "querystring": "latest",
     "prop-types": "latest",
     "promise.prototype.finally": "latest",
