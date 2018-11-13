@@ -66,6 +66,8 @@
     "eslint-plugin-standard": "latest",
     "eslint-plugin-react": "latest",
     "file-loader": "latest",
+    "gulp": "3.9.1",
+    "gulp.spritesmith": "6.9.0",
     "inquirer": "latest",
     "mobx-react-devtools": "latest",
     "mini-css-extract-plugin": "latest",
