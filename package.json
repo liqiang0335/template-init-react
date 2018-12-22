@@ -69,8 +69,6 @@
     "gulp": "3.9.1",
     "gulp.spritesmith": "6.9.0",
     "inquirer": "latest",
-    "highlight.js": "latest",
-    "markdown-it": "latest",
     "mobx-react-devtools": "latest",
     "mini-css-extract-plugin": "latest",
     "node-sass": "latest",
