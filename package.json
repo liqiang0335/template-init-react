@@ -17,7 +17,6 @@
     "mobx": "latest",
     "mobx-react": "latest",
     "normalizr": "latest",
-    "normalize.css": "latest",
     "querystring": "latest",
     "prop-types": "latest",
     "promise.prototype.finally": "latest",
@@ -25,14 +24,11 @@
     "react-dom": "latest",
     "react-router": "latest",
     "react-router-dom": "latest",
-    "recompose": "latest",
     "redux": "latest",
     "react-redux": "latest",
     "reselect": "latest",
     "react-loadable": "latest",
-    "reconnecting-websocket": "latest",
-    "styled-components": "latest",
-    "ynw": "latest"
+    "rxjs": "latest"
   },
   "devDependencies": {
     "@babel/core": "latest",
