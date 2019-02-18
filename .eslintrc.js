@@ -1,21 +1,19 @@
 module.exports = {
-  extends: ["eslint:recommended", "plugin:react/recommended"],
+  extends: ["eslint:recommended", "plugin:react/recommended", "react-hooks"],
   env: {
     browser: true,
     commonjs: true,
     es6: true
   },
   globals: {
-    log: true,
     importName: true,
     __dirname: true,
-    importVueComps: true,
     process: true,
     path: true
   },
   parser: "babel-eslint",
   parserOptions: {
-    ecmaVersion: 2017,
+    ecmaVersion: 2018,
     sourceType: "module",
     ecmaFeatures: {
       jsx: true
@@ -23,6 +21,7 @@ module.exports = {
   },
   rules: {
     semi: 2,
+    "react-hooks/rules-of-hooks": "error",
     "react/react-in-jsx-scope": "off",
     "react/prop-types": "off",
     "react/display-name": "off",
