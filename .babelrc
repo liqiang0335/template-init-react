@@ -3,7 +3,7 @@
     ["@babel/env", {
       "modules": false,
       "targets": {
-        "browsers": ["chrome >= 49"]
+        "browsers": ["ie >= 10"]
       },
       "useBuiltIns": "usage"
     }],
