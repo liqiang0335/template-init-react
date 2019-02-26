@@ -1,5 +1,5 @@
 module.exports = {
-  extends: ["eslint:recommended", "plugin:react/recommended", "react-hooks"],
+  extends: ["eslint:recommended", "plugin:react/recommended"],
   env: {
     browser: true,
     commonjs: true,
@@ -21,7 +21,6 @@ module.exports = {
   },
   rules: {
     semi: 2,
-    "react-hooks/rules-of-hooks": "error",
     "react/react-in-jsx-scope": "off",
     "react/prop-types": "off",
     "react/display-name": "off",
