@@ -67,6 +67,8 @@
     "gulp": "latest",
     "gulp.spritesmith": "latest",
     "inquirer": "latest",
+    "less": "latest",
+    "less-loader": "latest",
     "mobx-react-devtools": "latest",
     "mini-css-extract-plugin": "latest",
     "node-sass": "latest",
