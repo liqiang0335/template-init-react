@@ -77,7 +77,6 @@
     "postcss-loader": "latest",
     "precss": "latest",
     "sass-loader": "latest",
-    "ssh2-sftp-client": "latest",
     "style-loader": "latest",
     "uglify-template-string-loader": "latest",
     "uglifyjs-webpack-plugin": "latest",
