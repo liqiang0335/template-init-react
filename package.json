@@ -25,6 +25,8 @@
     "react-router-dom": "latest",
     "react-use": "latest",
     "redux": "latest",
+    "redux-observable": "latest",
+    "redux-actions": "latest",
     "reselect": "latest",
     "rxjs": "latest",
     "styled-components": "latest",
