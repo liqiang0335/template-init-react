@@ -23,7 +23,6 @@
     "react-redux": "latest",
     "react-router": "latest",
     "react-router-dom": "latest",
-    "react-use": "latest",
     "redux": "latest",
     "redux-observable": "latest",
     "redux-actions": "latest",
