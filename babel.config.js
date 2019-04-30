@@ -5,7 +5,7 @@ module.exports = {
       {
         modules: false,
         targets: {
-          browsers: ["ie >= 10"]
+          browsers: ["ie >= 9"]
         },
         useBuiltIns: "usage",
         corejs: "3"
