@@ -2,3 +2,5 @@ node_modules
 .svn
 .DS_Store
 dist
+*.bundle.js
+*.min.js
