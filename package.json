@@ -1,9 +1,10 @@
 {
   "name": "react-project",
   "version": "1.0.0",
-  "description": "react-project",
   "main": "",
-  "scripts": {},
+  "scripts": {
+    "test": "jest"
+  },
   "author": "liqiang0335@qq.com",
   "license": "ISC",
   "dependencies": {
@@ -13,8 +14,6 @@
     "date-fns": "latest",
     "localforage": "latest",
     "lodash": "latest",
-    "mobx": "latest",
-    "mobx-react": "latest",
     "prop-types": "latest",
     "querystring": "latest",
     "react": "latest",
