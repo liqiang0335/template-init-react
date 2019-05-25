@@ -25,7 +25,6 @@
     "redux": "latest",
     "redux-observable": "latest",
     "redux-actions": "latest",
-    "reselect": "latest",
     "rxjs": "latest",
     "styled-components": "latest",
     "core-js": "latest",
