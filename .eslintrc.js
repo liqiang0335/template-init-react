@@ -11,6 +11,7 @@ module.exports = {
     process: true,
     path: true
   },
+  plugins: ["react-hooks"],
   parser: "babel-eslint",
   parserOptions: {
     ecmaVersion: 2018,
@@ -19,6 +20,8 @@ module.exports = {
   },
   rules: {
     semi: 2,
+    "react-hooks/rules-of-hooks": "error",
+    "react-hooks/exhaustive-deps": "warn",
     "react/react-in-jsx-scope": "off",
     "react/prop-types": "off",
     "react/display-name": "off",
