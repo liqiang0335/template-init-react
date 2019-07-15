@@ -19,7 +19,6 @@
     "querystring": "latest",
     "react": "latest",
     "react-dom": "latest",
-    "react-loadable": "latest",
     "react-redux": "latest",
     "react-router": "latest",
     "react-router-dom": "latest",
