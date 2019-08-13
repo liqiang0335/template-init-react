@@ -18,7 +18,10 @@
     "querystring": "latest",
     "react": "latest",
     "react-dom": "latest",
+<<<<<<< HEAD
     "reselect": "latest",
+=======
+>>>>>>> af1b19582cb026f225b3933769e8065ab439492a
     "react-redux": "latest",
     "react-router": "latest",
     "react-router-dom": "latest",
