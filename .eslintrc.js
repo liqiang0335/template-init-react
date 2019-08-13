@@ -6,10 +6,7 @@ module.exports = {
     es6: true
   },
   globals: {
-    importName: true,
-    __dirname: true,
-    process: true,
-    path: true
+    importName: true
   },
   plugins: ["react-hooks"],
   parser: "babel-eslint",
