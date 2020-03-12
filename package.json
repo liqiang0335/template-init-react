@@ -9,6 +9,7 @@
   "license": "ISC",
   "dependencies": {
     "antd": "latest",
+    "@ant-design/icons": "latest",
     "axios": "latest",
     "classnames": "latest",
     "date-fns": "latest",
