@@ -95,6 +95,7 @@
     "webpack-node-externals": "^1.7.2",
     "webpack-bundle-analyzer": "latest",
     "copy-webpack-plugin": "latest",
+    "ynw-cli": "latest",
     "ynw-loader": "latest"
   }
 }
