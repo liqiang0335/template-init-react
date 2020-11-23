@@ -3,29 +3,28 @@ module.exports = {
   env: {
     browser: true,
     commonjs: true,
-    es6: true
+    node: true,
+    es6: true,
   },
   globals: {
-    importName: true,
-    __dirname: true,
-    process: true,
-    path: true
+    $: true,
+    path: true,
   },
   plugins: ["react-hooks"],
   parser: "babel-eslint",
   parserOptions: {
     ecmaVersion: 2018,
     sourceType: "module",
-    ecmaFeatures: { jsx: true }
+    ecmaFeatures: { jsx: true },
   },
   rules: {
     semi: 2,
     "react-hooks/rules-of-hooks": "error",
-    "react-hooks/exhaustive-deps": "warn",
+    "react-hooks/exhaustive-deps": "off",
     "react/react-in-jsx-scope": "off",
     "react/prop-types": "off",
     "react/display-name": "off",
     "no-irregular-whitespace": "off",
-    "no-console": "off"
-  }
+    "no-console": "warn",
+  },
 };
