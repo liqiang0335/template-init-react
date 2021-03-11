@@ -27,6 +27,7 @@
     "rxjs": "latest",
     "styled-components": "latest",
     "core-js": "latest",
+    "swr": "latest",
     "ynw": "latest"
   },
   "browserslist": [
